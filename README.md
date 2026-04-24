@@ -1,7 +1,3 @@
-Esta versão consolidada utiliza a **estrutura técnica e visual do segundo texto** (o modelo "Nota 10") para organizar o **conteúdo denso e detalhado do primeiro texto**. O resultado é um repositório profissional, academicamente rigoroso e pronto para publicação no GitHub.
-
----
-
 # Caderno Temático: Neurociência e Tecnologias Imersivas no Ensino em Saúde
 
 ## 🎯 Contexto e Objetivos

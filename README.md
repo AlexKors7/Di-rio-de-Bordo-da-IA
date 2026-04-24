@@ -100,23 +100,36 @@ A IA catalisa a transição do modelo passivo para o **LHS**, onde o aprendizado
 
 ---
 
-## 📚 Referências (ABNT NBR 6023)
+## 📚 Referências
 BASTOS, Mírian Letícia Carmo et al. (org.). Metodologias Ativas no Ensino em Saúde: experiências em cenários acadêmicos. Belém: Neurus, 2023. v. 1.
+
 BRASIL. Ministério da Educação. Conselho Nacional de Educação. Câmara de Educação Superior. Resolução nº 3, de 20 de junho de 2014. Institui Diretrizes Curriculares Nacionais do Curso de Graduação em Medicina e dá outras providências. Diário Oficial da União, Brasília, DF, 23 jun. 2014. Seção 1, p. 8-11.
+
 BREMNER et al. The Era of Immersive Health Technology. [S. l.]: [s. n.], 2020.
+
 COSTA, Maurício José Morais; SANTOS, Donny Wallesson dos; BOTTENTUIT JUNIOR, João Batista. Inteligência Artificial e metodologias ativas no ensino de Medicina: percepções dos discentes de habilidades médicas de um centro universitário. [S. l.], v. 19, e24do3003, 2024.
+
 DESAI, Rajiv. Digital Twin. [S. l.], 12 mar. 2023. Disponível em: https://drrajivdesaimd.com/2023/03/12/digital-twin/. Acesso em: 24 abr. 2026.
+
 FONSECA, Andreza Bastos Bartz Nogueira da et al. Integrando neurociência, educação e tecnologia: inovações para um aprendizado eficaz no século 21. Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE, [S. l.], v. 12, n. 3, 2026. DOI: 10.51891/rease.v12i3.24849.
+
 GROSSI, Márcia Gorett Ribeiro; LYRA, Letícia Ribeiro; SILVA, Mônica Ferreira da. Neurociência e metodologias ativas: explorando a ciência da aprendizagem e do ensino. Revista Exitus, Santarém, v. 14, e024072, 2024. DOI: https://doi.org/10.24065/re.v14i1.2758.
+
 IZQUIERDO, Ivan. Memórias. Estudos Avançados, [S. l.], v. 3, n. 6, p. 89-112, 1989.
 IZQUIERDO, Ivan Antonio et al. Memória: tipos e mecanismos – achados recentes. Ciência e Cultura, São Paulo, v. 65, n. 4, p. 24-27, 2013.
+
 LUO, Yuyu et al. Data Agents: Levels, State of the Art, and Open Problems. [S. l.]: arXiv, 2026. (arXiv:2602.04261).
 MARTINS, João Victor Elias. Realidade virtual aplicada ao ensino de anatomia e fisiologia do corpo humano: OCULUS QUEST VR. In: CONGRESSO DE INICIAÇÃO CIENTÍFICA DA UNESP, 36., 2024, Sorocaba. Anais [...]. Sorocaba: Unesp, 2024.
+
 MOTA, Fabrício C. A Eficácia das Tecnologias de Realidade Virtual e Aumentada no ensino Neurocirúrgico: Uma Análise sobre o Impacto no Aprendizado Médico. [S. l.]: IFPI, 2025.
+
 SELECTSCIENCE. 7 life sciences trends to watch in 2026. [S. l.], 20 abr. 2026. Disponível em: https://www.selectscience.net/article/this-years-life-sciences-trends. Acesso em: 24 abr. 2026.
+
 STANFORD UNIVERSITY. The Stanford Emerging Technology Review 2026. Stanford, CA: Hoover Institution, 2026.
 TABATABAEI FAR, Sedighe Sadat et al. Applications and Challenges of Virtual Reality in Medical Sciences Education: A Systematic Review. Journal of Advances in Medical Education and Professionalism, [S. l.], v. 14, n. 1, p. 21-31, jan. 2026. DOI: 10.30476/jamp.2025.104655.2076.
+
 THE CONVERGENCE of Intelligence, Energy, and Global Innovation: A Strategic Analysis of the 2025-2026 Technoscientific Landscape. [S. l.], 2026.
 THE FUTURE of AI is Many, Not One. arXiv, [S. l.], 2026. Disponível em: https://arxiv.org/html/2603.29075v1. Acesso em: 24 abr. 2026.
+
 TORI, Romero. Tecnologias Imersivas na Educação em Saúde. [S. l.], v. 23, n. 2, p. 43-56, dez. 2022.
 VARGAS, Betiana Elizabeth; LAU, Edgar Záyago. Inteligência artificial generativa no ensino superior: implicações, aplicações e ferramentas. Revista Docência do Ensino Superior, Belo Horizonte, v. 15, e058154, p. 1-19, 2025. DOI: https://doi.org/10.35699/2237-5864.2025.58154.

@@ -7,7 +7,7 @@ Este repositório apresenta um caderno de estudos desenvolvido no **NotebookLM**
 O objetivo central é analisar a convergência entre **Realidade Virtual (VR)**, **Realidade Aumentada (RA)** e **Inteligência Artificial (IA)** no ensino superior de saúde, fundamentando essa integração nas **Diretrizes Curriculares Nacionais (DCNs)** e nos processos neurobiológicos da aprendizagem (especificamente a consolidação da memória).
 
 **Objetivos de Estudo:**
-* Compreender o impacto da VR na retenção de conhecimento anatômico;
+* Compreender o impacto da VR e da AR na retenção de conhecimento anatômico;
 * Avaliar a conformidade das ferramentas digitais com as DCNs de Medicina;
 * Explorar a IA Generativa como facilitadora da aprendizagem ativa e do raciocínio clínico.
 
@@ -16,10 +16,10 @@ O objetivo central é analisar a convergência entre **Realidade Virtual (VR)**,
 ## 📚 Curadoria de Fontes
 Utilizei uma base de dados robusta composta por **17 fontes acadêmicas** (Artigos, Resoluções e Relatórios Técnicos de 2020 a 2026). As fontes primárias incluem:
 
-1. **DCNs Medicina (Resolução CNE/CES nº 3/2014):** Base normativa para competências profissionais.
-2. **Rossi et al. (2024):** Neurociência e metodologias ativas.
-3. **Fonseca et al. (2026):** Inovações para aprendizado eficaz no século 21.
-4. **Stanford Emerging Technology Review 2026:** Tendências em IA e Neurociência.
+1. **DCNs Medicina (Resolução CNE/CES nº 3/2014):** Base normativa para competências profissionais;
+2. **Rossi et al. (2024):** Neurociência e metodologias ativas;
+3. **Fonseca et al. (2026):** Inovações para aprendizado eficaz no século 21;
+4. **Stanford Emerging Technology Review 2026:** Tendências em IA e Neurociência;
 5. **Tabatabaei Far et al. (2026):** Revisão sistemática de VR na educação médica.
 
 ---

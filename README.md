@@ -17,10 +17,10 @@ Este repositório apresenta um caderno de estudos desenvolvido no **NotebookLM**
 ## 📚 Curadoria de Fontes
 Algumas fontes foram encontradas. Porém, Algumas delas foram excluídas por não apresentarem adesão aos temas. As fontes selecionadas foram, então, inseridas no BotebookLM para a elaboração desse caderno a fim de elaborar esse mini guia. Os gandes temas abaixo foram selecionadas e processadas pela IA para garantir embasamento científico e normativo:
 
-1. **DCNs Medicina (Resolução CNE/CES nº 3/2014):** Documento base para competências profissionais.
-2. **Neurociência da Aprendizagem:** Artigo sobre neuroplasticidade e memória de longo prazo.
-3. **VR no Ensino de Anatomia:** Estudo de caso sobre eficácia pedagógica e engajamento.
-4. **AR no Ensino de Anatomia:** Estudo de caso 
+1. **DCNs Medicina (Resolução CNE/CES nº 3/2014):** Documento base para competências profissionais;
+2. **Neurociência da Aprendizagem:** Artigo sobre neuroplasticidade e memória de longo prazo;
+3. **VR no Ensino de Anatomia:** Estudo de caso sobre eficácia pedagógica e engajamento;
+4. **AR no Treinamento Neurocirúrgico:** Revisão sobre o impacto da Realidade Aumentada na melhoria da exatidão do posicionamento de instrumentos e na redução da carga cognitiva em cirurgias complexas; 
 5. **IA na Educação Superior:** Relatório sobre tendências e ética em saúde digital.
 
 ---

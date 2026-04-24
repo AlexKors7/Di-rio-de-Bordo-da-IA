@@ -1,61 +1,73 @@
-# Neurociência Aplicada ao Ensino em Saúde: Metodologias Ativas e o Impacto das Tecnologias Imersivas (VR//AR/IA).
-
-Esse Repositório visa organizar todas as etapas do Desafio proposto pelo Boootcamp da DIO intitulado "Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM" para desenvolver as comptências tecnológicas solicitadas. Um mini guia foi elaborado para abordar aspectos de Neurociência e de Teconologia.
-
 # Caderno Temático: Neurociência e Tecnologias Imersivas no Ensino em Saúde
 
 ## 🎯 Contexto e Objetivos
-Este repositório apresenta um caderno de estudos desenvolvido no **NotebookLM**, com o objetivo de analisar a integração da Realidade Virtual (VR), da Realidade Aumentada (AR) e da Inteligência Artificial (IA) no ensino superior de saúde, sob a óptica das Diretrizes Curriculares Nacionais (DCNs) e da neurobiologia da aprendizagem.
+Este repositório apresenta um caderno de estudos desenvolvido no **NotebookLM**, com o objetivo de analisar a integração da Realidade Virtual (VR) e da Inteligência Artificial (IA) no ensino superior de saúde, sob a ótica das Diretrizes Curriculares Nacionais (DCNs) e da neurobiologia da aprendizagem.
 
 **Objetivos de Estudo:**
-* Compreender o impacto da VR na retenção de conhecimento anatômico;
-* Avaliar a conformidade das ferramentas digitais com as DCNs de Medicina;
+* Compreender o impacto da VR na retenção de conhecimento anatômico.
+* Avaliar a conformidade das ferramentas digitais com as DCNs de Medicina.
 * Explorar a IA Generativa como facilitadora da aprendizagem ativa.
 
 ---
 
 ## 📚 Curadoria de Fontes
-Algumas fontes foram encontradas. Porém, Algumas delas foram excluídas por não apresentarem adesão aos temas. As fontes selecionadas foram, então, inseridas no BotebookLM para a elaboração desse caderno a fim de elaborar esse mini guia. Os gandes temas abaixo foram selecionadas e processadas pela IA para garantir embasamento científico e normativo:
-
-1. **DCNs Medicina (Resolução CNE/CES nº 3/2014):** Documento base para competências profissionais;
-2. **Neurociência da Aprendizagem:** Artigo sobre neuroplasticidade e memória de longo prazo;
-3. **VR no Ensino de Anatomia:** Estudo de caso sobre eficácia pedagógica e engajamento;
-4. **AR no Treinamento Neurocirúrgico:** Revisão sobre o impacto da Realidade Aumentada na melhoria da exatidão do posicionamento de instrumentos e na redução da carga cognitiva em cirurgias complexas; 
-5. **IA na Educação Superior:** Relatório sobre tendências e ética em saúde digital.
+As fontes abaixo foram selecionadas e processadas para garantir embasamento científico e normativo:
+1. **DCNs Medicina (Resolução CNE/CES nº 3/2014):** Base normativa para competências profissionais.
+2. **Artigo: Neurociência e Educação:** Foco em neuroplasticidade e memória.
+3. **Estudo de Caso: VR no Ensino de Anatomia:** Análise de engajamento e eficácia.
+4. **Relatório Técnico: IA na Educação Superior:** Fronteiras éticas e tecnológicas.
 
 ---
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
-Nesta seção, documento o processo de "ajuste fino" com a IA:
+Documentação do processo de interação e ajuste fino com a Inteligência Artificial.
 
-### O Desafio (Troubleshooting)
-* **Dificuldade Inicial:** A IA fornecia resumos muito genéricos sobre tecnologia sem citar parágrafos específicos das DCNs.
-* **Solução:** Implementação de prompts com **Restrição de Contexto**, exigindo que a IA citasse obrigatoriamente a "Fonte 1" ao falar de regulação.
-
-### Exemplos de Prompts Estratégicos:
-1. **Prompt de Cruzamento:** *"Analise se o uso de simuladores VR atende à competência X da DCN citada na Fonte 1."*
-2. **Prompt de Simulação:** *"Atue como um professor de neurociências e explique a relação entre feedback imediato e dopamina com base na Fonte 2."*
+### Troubleshooting (Resolução de Problemas)
+* **Dificuldade Encontrada:** Inicialmente, a IA gerava respostas genéricas sobre "tecnologia" sem conectar com as bases biológicas da memória ou com as exigências do MEC.
+* **Ajuste Estratégico:** Foi necessário utilizar prompts de **Cruzamento de Fontes**, exigindo que a IA validasse cada afirmação tecnológica com um parágrafo correspondente das DCNs ou dos fundamentos da neurociência.
 
 ---
 
 ## 📖 Miniguia de Estudo (Entrega Final)
 
-### Resumo Estruturado
-* **Neurobiologia:** O uso de VR reduz a carga cognitiva externa e potencializa a memória episódica.
-* **Normatização:** Tecnologias digitais não substituem a prática, mas aceleram o desenvolvimento de competências clínicas.
+### 1. Resumo Estruturado
+* **Fundamentos Neurobiológicos:** Relação entre estímulos multissensoriais (VR) e a potenciação de longa duração (LTP) na memória.
+* **Alinhamento com DCNs:** Como as tecnologias atendem ao perfil do egresso (humanista, crítico, reflexivo e ético).
+* **O Papel da IA no Ensino:** A transição do modelo passivo para o "Learning Health System".
 
-### Glossário de Conceitos
-* **LTP (Potenciação de Longa Duração):** Base molecular da memória.
-* **Interoperabilidade:** Capacidade de sistemas de saúde trocarem dados (essencial na saúde digital).
+### 2. Glossário de Conceitos-Chave
+* **LTP (Long-Term Potentiation):** Processo de fortalecimento das sinapses baseado em padrões de atividade, essencial para a formação da memória de longo prazo.
+* **DCNs (Diretrizes Curriculares Nacionais):** Conjunto de normas que definem os princípios e metas para a formação profissional em saúde.
+* **Learning Health System:** Ecossistema onde a prática clínica, a tecnologia e a educação geram dados contínuos para a melhoria do cuidado e do ensino.
+* **Interoperabilidade:** Capacidade de sistemas e ferramentas (como o NotebookLM e plataformas de ensino) de trocar e utilizar informações de forma eficaz.
 
-### 20 Prompts Reutilizáveis
-[Insira aqui a lista de 20 prompts que geramos no passo anterior]
+### 3. Biblioteca de 20 Prompts Reutilizáveis
+1. "Com base nas DCNs de Medicina, identifique as competências atendidas por simuladores de VR."
+2. "Explique como o feedback em VR atua na LTP para consolidação da memória."
+3. "Como as tecnologias educacionais facilitam a integração entre ciências básicas e clínicas?"
+4. "Analise se a IA Generativa pode gerar sobrecarga cognitiva segundo as fontes de neurociência."
+5. "Crie uma matriz de competências cruzando objetivos de aprendizagem e formação humanista."
+6. "De que maneira a interatividade das metodologias ativas promove a neuroplasticidade?"
+7. "Extraia a relação entre gamificação e o sistema de recompensa dopaminérgico."
+8. "Elabore um plano de aula de 4 horas integrando 30 minutos de uso estratégico de IA."
+9. "Gere 3 casos clínicos de neuroanatomia para resolução via diagnóstico por imagem."
+10. "Crie um roteiro de debate sobre 'Ética vs. Eficiência no uso de IA em diagnósticos'."
+11. "Prepare um guia para tutores de PBL sobre mediação de ferramentas de IA generativa."
+12. "Escreva um resumo executivo justificando investimentos em laboratórios digitais de saúde."
+13. "Como a interoperabilidade (HL7/FHIR) pode ser integrada ao currículo de graduação?"
+14. "Extraia das fontes as 5 tendências tecnológicas para o ensino médico na próxima década."
+15. "Crie uma tabela comparativa: Anatomia em VR versus Ensino em Cadáveres."
+16. "Identifique nas fontes como mitigar a sobrecarga cognitiva ao introduzir novas ferramentas."
+17. "Defina os 15 termos técnicos mais frequentes presentes nestas fontes para um aluno iniciante."
+18. "Gere um simulado de 5 questões que exijam o cruzamento de dados de duas fontes diferentes."
+19. "Aponte possíveis vieses ou limitações descritos nos artigos sobre o uso de tecnologia."
+20. "Explique o conceito de 'Learning Health System' utilizando a Técnica de Feynman."
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-* **NotebookLM (Google):** IA para análise de fontes.
-* **GitHub:** Hospedagem e documentação do projeto.
+* **NotebookLM (Google):** IA para curadoria e análise profunda de fontes.
+* **GitHub:** Hospedagem e documentação do portfólio técnico.
 
 O mini guia foi dividido em 6 etapas (I - VI) para a elaboração de um Resumo Estruturado, conforme segue abaixo:
 

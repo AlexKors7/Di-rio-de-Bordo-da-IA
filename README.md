@@ -1,17 +1,21 @@
 # Caderno Temático: Neurociência e Tecnologias Imersivas no Ensino em Saúde
 
 ## 🎯 Contexto e Objetivos
-Este repositório apresenta um caderno de estudos desenvolvido no **NotebookLM**, com o objetivo de analisar a integração da Realidade Virtual (VR) e da Inteligência Artificial (IA) no ensino superior de saúde, sob a ótica das Diretrizes Curriculares Nacionais (DCNs) e da neurobiologia da aprendizagem.
+Este repositório apresenta um caderno de estudos desenvolvido no **NotebookLM**, disponível em: 
+
+<https://notebooklm.google.com/notebook/0ee3e814-1e03-42da-9d4c-204ce895e31c?authuser=1>
+
+com o objetivo de analisar a integração da Realidade Virtual (VR), da Realidade Aumentada (RA) e da Inteligência Artificial (IA) no ensino superior de saúde, sob a óptica das Diretrizes Curriculares Nacionais (DCNs) e da neurobiologia da aprendizagem.
 
 **Objetivos de Estudo:**
-* Compreender o impacto da VR na retenção de conhecimento anatômico.
-* Avaliar a conformidade das ferramentas digitais com as DCNs de Medicina.
+* Compreender o impacto da VR na retenção de conhecimento anatômico;
+* Avaliar a conformidade das ferramentas digitais com as DCNs de Medicina;
 * Explorar a IA Generativa como facilitadora da aprendizagem ativa.
 
 ---
 
 ## 📚 Curadoria de Fontes
-As fontes abaixo foram selecionadas e processadas para garantir embasamento científico e normativo:
+As fontes abaixo, dentre outras, foram selecionadas e processadas para garantir embasamento científico e normativo:
 1. **DCNs Medicina (Resolução CNE/CES nº 3/2014):** Base normativa para competências profissionais.
 2. **Artigo: Neurociência e Educação:** Foco em neuroplasticidade e memória.
 3. **Estudo de Caso: VR no Ensino de Anatomia:** Análise de engajamento e eficácia.
@@ -66,8 +70,11 @@ Documentação do processo de interação e ajuste fino com a Inteligência Arti
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-* **NotebookLM (Google):** IA para curadoria e análise profunda de fontes.
+* **NotebookLM (Google):** IA para curadoria e análise profunda de fontes;
+* **gemini (Google):** IA para elaboração de prompts mais aprofundados e estruturação deste mini guia;
 * **GitHub:** Hospedagem e documentação do portfólio técnico.
+
+  
 
 O mini guia foi dividido em 6 etapas (I - VI) para a elaboração de um Resumo Estruturado, conforme segue abaixo:
 

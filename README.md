@@ -57,7 +57,7 @@ Nesta seção, documento o processo de "ajuste fino" com a IA:
 * **NotebookLM (Google):** IA para análise de fontes.
 * **GitHub:** Hospedagem e documentação do projeto.
 
-O mini guia foi dividido em XX etapas para a elaboração de um Resumo Estruturado, conforme segue abaixo:
+O mini guia foi dividido em 6 etapas (I - VI) para a elaboração de um Resumo Estruturado, conforme segue abaixo:
 
 **I. Fundamentos Neurobiológicos: Relação entre estímulos multissensoriais (VR) e a potenciação de longa duração (LTP) na memória**
 
@@ -187,6 +187,8 @@ THE FUTURE of AI is Many, Not One. **arXiv**, [S. l.], 2026. Disponível em: htt
 TORI, Romero. Tecnologias Imersivas na Educação em Saúde. **[S. l.]**, v. 23, n. 2, p. 43-56, dez. 2022.
 
 VARGAS, Betiana Elizabeth; LAU, Edgar Záyago. Inteligência artificial generativa no ensino superior: implicações, aplicações e ferramentas. **Revista Docência do Ensino Superior**, Belo Horizonte, v. 15, e058154, p. 1-19, 2025. DOI: https://doi.org/10.35699/2237-5864.2025.58154.
+
+
 
 **VI. lista consolidada de 20 prompts estratégicos** 
 

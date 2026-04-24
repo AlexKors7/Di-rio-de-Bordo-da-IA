@@ -126,6 +126,7 @@ MOTA, Fabrício C. A Eficácia das Tecnologias de Realidade Virtual e Aumentada 
 SELECTSCIENCE. 7 life sciences trends to watch in 2026. [S. l.], 20 abr. 2026. Disponível em: https://www.selectscience.net/article/this-years-life-sciences-trends. Acesso em: 24 abr. 2026.
 
 STANFORD UNIVERSITY. The Stanford Emerging Technology Review 2026. Stanford, CA: Hoover Institution, 2026.
+
 TABATABAEI FAR, Sedighe Sadat et al. Applications and Challenges of Virtual Reality in Medical Sciences Education: A Systematic Review. Journal of Advances in Medical Education and Professionalism, [S. l.], v. 14, n. 1, p. 21-31, jan. 2026. DOI: 10.30476/jamp.2025.104655.2076.
 
 THE CONVERGENCE of Intelligence, Energy, and Global Innovation: A Strategic Analysis of the 2025-2026 Technoscientific Landscape. [S. l.], 2026.
